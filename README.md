@@ -6,5 +6,6 @@ During summer 2026 I took part in the official UEFN Bootcamp with Epic Games, wh
 To develop my project I:
 •	Designed, built, and marketed all aspects of the game, ensuring I put user experience first when implementing features such as a customisable inventory, levelling system, and overall gameplay flow.
 •	Used test driven development and playtests with a wide range of user demographics allowed me to incrementally make improvements to my game. It was important to ensure any code and functionality was efficient, as in a fast-paced gameplay environment great performance is critical.
+•	Marketed my game by creating and editing a trailer (https://youtu.be/moU_IIo6Fqs)
 
 Outcome: published Loadout Legends: Boxfights on the Fortnite ecosystem.
